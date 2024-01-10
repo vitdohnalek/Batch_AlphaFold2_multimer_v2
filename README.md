@@ -4,6 +4,7 @@ The script can be opened in Google Colab interface. It uses the AlphaFold2 multi
 
 The format for the input .fasta file should be:
 >&gt;fasta header
+
 >sequence:sequence
 
 Results are saved into Google Drive or can be downloaded directly from the Google Colab. 
